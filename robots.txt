@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://dr-green007.github.io/sitemap.xml
